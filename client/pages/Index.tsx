@@ -20,9 +20,9 @@ export default function Index() {
             Bring every workflow into one intelligent workspace.
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-sm text-muted-foreground">
-            Invite your team, configure guardrails, and orchestrate AI-powered text
-            experiences that stay on brand. Lumin Studio adapts to your structure
-            and scales with your ambitions.
+            Invite your team, configure guardrails, and orchestrate AI-powered
+            text experiences that stay on brand. Lumin Studio adapts to your
+            structure and scales with your ambitions.
           </p>
           <div className="mt-8 flex flex-wrap items-center justify-center gap-4 text-sm">
             <a

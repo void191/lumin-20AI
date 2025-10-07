@@ -18,10 +18,10 @@ const NotFound = () => {
         We couldn’t locate that workspace.
       </h1>
       <p className="mt-4 max-w-xl text-sm text-muted-foreground">
-        The link {" "}
-        <span className="font-medium text-foreground">{location.pathname}</span> may
-        be outdated or private. Jump back to the main studio or explore the latest
-        interactions.
+        The link{" "}
+        <span className="font-medium text-foreground">{location.pathname}</span>{" "}
+        may be outdated or private. Jump back to the main studio or explore the
+        latest interactions.
       </p>
       <div className="mt-8 flex flex-wrap items-center justify-center gap-4 text-sm">
         <Link
