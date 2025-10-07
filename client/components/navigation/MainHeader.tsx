@@ -2,11 +2,9 @@ import { useState } from "react";
 import {
   ArrowUpRight,
   ChevronDown,
-  ClipboardList,
   Clock4,
   LayoutPanelTop,
   ListChecks,
-  LogIn,
   Sparkles,
   Star,
   UserPlus,
