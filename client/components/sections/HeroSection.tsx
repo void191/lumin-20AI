@@ -3,6 +3,7 @@ import {
   Languages,
   MessageSquareText,
   Sparkles,
+  Star,
   TextQuote,
 } from "lucide-react";
 
